@@ -30,4 +30,4 @@ ax1.set_title('Near-Surface Air Temperature')
 ax1.set_xlabel('')
 ax1.set_ylabel('')
 
-fig.savefig('test.png',dpi=600)
+fig.savefig('plot_nc_script.png',dpi=600)
